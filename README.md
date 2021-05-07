@@ -1,3 +1,10 @@
+# Sorting Visualizer
+
+Built a React application to visualize sorting algorithms.
+Implemented Bubble Sort, Merge Sort, Quick Sort and Heap Sort.
+
+Go ahead and play with it [Sorting-Visualizer](https://shlok1805.github.io/sorting-visualizer/).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
