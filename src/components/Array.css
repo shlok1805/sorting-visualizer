@@ -1,15 +1,15 @@
 .array-container {
     text-align: center;
     position: absolute;
-    left: 100px;
-    right: 100px;
+    left: 5%;
+    right: 5%;
 }
 
 .array-bar {
     display: inline-block;
     background-color: blue;
-    width: 6px;
-    margin: 0 1px;
+    width: 0.5%;
+    margin: 0 0.08%;
 }
 
 button {
