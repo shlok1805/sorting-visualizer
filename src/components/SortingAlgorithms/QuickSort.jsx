@@ -9,7 +9,7 @@ function QuickSort(arr) {
 
     function partition (arr,  low, high) {
         var pivot = arr[high]; // pivot
-        animations.push([3,high,0,0,0]);
+        // animations.push([3,high,0,0,0]);
         var i = (low - 1); // Index of smaller element and indicates the right position of pivot found so far
  
         for (var j = low; j <= high - 1; j++) {
